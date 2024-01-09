@@ -1,7 +1,3 @@
----
-mainfont: sans-serif
----
-
 ## Введение в магию кельтских камней и постановка задачи исследования
 
 Хотя мир занимательных опытов в механике огромен, не так много удивительных и контринтуитивных опытов можно показать, достав что-то из кармана, или сделав из подручных материалов — разве что варианты [китайских волчков]([https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BB%D1%87%D0%BE%D0%BA), но волчки и прочие гироскопы изначально выглядят магическими с непредсказуемыми движениями, шулеров «играющих с лохами в три стакана», а хороший фокус состоит в том,
@@ -21,15 +17,18 @@ mainfont: sans-serif
 * «[О динамике катящегося
 тела и некоторых
 курьезных свойствах
-вращающегося волчка](https://www.pereplet.ru/nauka/Soros/pdf/9809_096.pdf)», но что более удивительно, исследования и свежие научные статьи и исследования продолжаются до сих пор! 
+вращающегося волчка](https://www.pereplet.ru/nauka/Soros/pdf/9809_096.pdf)».
+
+Но что более удивительно, исследования и свежие научные статьи и исследования продолжаются до сих пор! 
 Как на русском языке — см. например «[Хаотическая динамика и мультистабильность в неголономной модели кельтского камня, 2018](https://www.elibrary.ru/item.asp?id=36933478)» + [«странные аттракторы»](https://www.elibrary.ru/item.asp?id=25442297), не говоря уже о [сотнях англоязычных статей](https://www.researchgate.net/search.Search.html?query=rattleback&type=publication&sortBy=RECENCY):
-    * [2023, Chiral knife edge: A simplified rattleback to illustrate spin inversion](https://www.researchgate.net/publication/376841753_Chiral_knife_edge_A_simplified_rattleback_to_illustrate_spin_inversion), 
-    * [2022, The Rattleback and the Magnus Force](https://www.researchgate.net/publication/361277369_The_Rattleback_and_the_Magnus_Force), 
-    * [2022, Analytical Research of the Hopf Bifurcation in the Problem of Motion of the Rattleback](https://www.researchgate.net/publication/361854534_Analytical_Research_of_the_Hopf_Bifurcation_in_the_Problem_of_Motion_of_the_Rattleback), 
-    * [2022, Some Reversing Orbits for a Rattleback Model](https://www.researchgate.net/publication/360056779_Some_Reversing_Orbits_for_a_Rattleback_Model), 
-    * [2022, A Holonomic Rattleback](https://www.researchgate.net/publication/359277761_A_Holonomic_Rattleback), 
-    * [2022, Analytical research of the Hopf bifurcation in the problem of motion of the rattleback](https://www.researchgate.net/publication/362815663_Analytical_research_of_the_Hopf_bifurcation_in_the_problem_of_motion_of_the_rattleback)
-    * … 
+
+- [2023, Chiral knife edge: A simplified rattleback to illustrate spin inversion](https://www.researchgate.net/publication/376841753_Chiral_knife_edge_A_simplified_rattleback_to_illustrate_spin_inversion), 
+- [2022, The Rattleback and the Magnus Force](https://www.researchgate.net/publication/361277369_The_Rattleback_and_the_Magnus_Force), 
+- [2022, Analytical Research of the Hopf Bifurcation in the Problem of Motion of the Rattleback](https://www.researchgate.net/publication/361854534_Analytical_Research_of_the_Hopf_Bifurcation_in_the_Problem_of_Motion_of_the_Rattleback), 
+- [2022, Some Reversing Orbits for a Rattleback Model](https://www.researchgate.net/publication/360056779_Some_Reversing_Orbits_for_a_Rattleback_Model), 
+- [2022, A Holonomic Rattleback](https://www.researchgate.net/publication/359277761_A_Holonomic_Rattleback), 
+- [2022, Analytical research of the Hopf bifurcation in the problem of motion of the rattleback](https://www.researchgate.net/publication/362815663_Analytical_research_of_the_Hopf_bifurcation_in_the_problem_of_motion_of_the_rattleback)
+… 
 
 Видно, что хотя вроде как «секрет раскрыт», остается масса интересных вопросов — более сложные модели с учетом трений, сопротивления воздуха и прочей диссипации, вопросы аттракторов, как сделать «универсальные двухсторонние кельты» или оптимальные для максимума разворотов… 
 
