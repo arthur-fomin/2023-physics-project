@@ -19,3 +19,4 @@
 Наброски ноутбуков здесь https://github.com/arthur-fomin/2023-physics-project/tree/main/pydy-modelling
 
 Возможно в будущем кто-то сможет получить эту симуляцию, а мне удастся продолжить изучение SymPy, где есть модули не только для механики и но и для [оптики](https://docs.sympy.org/latest/modules/physics/optics/index.html)  и даже [квантовой механики](https://docs.sympy.org/latest/modules/physics/quantum/index.html)
+
