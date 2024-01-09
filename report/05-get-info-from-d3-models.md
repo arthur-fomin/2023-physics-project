@@ -7,8 +7,11 @@
 
 ![](pics/20240102062811.png)
 
+
 После исследования, изучен интерфейс FreeCAD, и сделан простой код экспорта модели в формат, с которым может работать 
 и моделирование через «Sympy Mechanics».
+
+![](pics/20240103065705.png)
 
 Опубликовано тут, 
 https://github.com/arthur-fomin/2023-physics-project/tree/main/freecad-export-tensors
