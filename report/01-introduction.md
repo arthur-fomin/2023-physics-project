@@ -17,8 +17,8 @@
 
 ![](pics/rattleback-idea-01.svg)
 
-Публикаций по теме, начиная с первой работы «G.T. Walker, On a dynamical top, Q. J. pure appl. Math. (1896)» тысячи, модель рассматривается в [классических
-англоязычных учебниках](https://books.google.ru/books/about/Dynamics_Theory_and_Applications.html?id=g99oQgAACAAJ), есть масса научно-популярных статей на русском, упомянем только лучшии
+Публикаций по теме, начиная с первой работы «G.T. Walker, On a dynamical top, Q. J. pure appl. Math. (1896)» сотни, модель рассматривается в [классических
+англоязычных учебниках](https://books.google.ru/books/about/Dynamics_Theory_and_Applications.html?id=g99oQgAACAAJ), есть масса научно-популярных статей на русском, упомянем самые популярные
 * «[Время собирать кельтские камни](http://www.t-z-n.ru/igryshki/docs/vremya_sobirat.pdf)»
 * «[О динамике катящегося
 тела и некоторых
