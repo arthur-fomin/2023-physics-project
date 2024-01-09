@@ -1,5 +1,5 @@
 {
     "gitdoc.enabled": true,
     "gitdoc.timeZone": "Europe/Moscow",
-    "gitdoc.commitMessageFormat": "YYYY-LL-"
+    "gitdoc.commitMessageFormat": "YYYY-LL-dd-HH-mi"
 }
