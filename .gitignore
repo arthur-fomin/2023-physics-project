@@ -98,3 +98,4 @@ physics-viewer.und
 to_delete
 .venv
 Pipfile*
+*.sage-jupyter2
