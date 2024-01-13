@@ -97,5 +97,6 @@ b0*/*
 physics-viewer.und
 to_delete
 .venv
+.venv/*
 Pipfile*
 *.sage-jupyter2
