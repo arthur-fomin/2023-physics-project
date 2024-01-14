@@ -28,14 +28,13 @@
 
 ![](pics/pic20240114201344.png)
 
-
-
+![](pics/pic20240114201817.png)
 
 
 #### Печатная версия юпитер-ноутбука
 
 Актуальная версия юпитер-ноутбука находится по адресу 
-https://github.com/arthur-fomin/2023-physics-project/blob/main/pydy-modelling/rattleback-tensors.ipynb
+[https://github.com/arthur-fomin/2023-physics-project/blob/main/pydy-modelling/rattleback-tensors.ipynb](https://github.com/arthur-fomin/2023-physics-project/blob/main/pydy-modelling/rattleback-tensors.ipynb) (а все файлы проекта по адресу [https://github.com/arthur-fomin/2023-physics-project](https://github.com/arthur-fomin/2023-physics-project)).
 
 Но для страховки и полноты, мы приложили в этом разделе распечатанную и зафиксированную версию.
 
