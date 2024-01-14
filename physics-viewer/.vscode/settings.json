@@ -1,0 +1,5 @@
+{
+    "cmake.buildArguments": "",
+    "cmake.reconfigureOnChange": true,
+    "cmake.configureSettings": {"NEWTON_ENABLE_AVX2_SOLVER":"OFF"}
+}

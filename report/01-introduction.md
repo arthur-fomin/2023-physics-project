@@ -57,6 +57,8 @@ monofontoptions: 'Scale=0.6'
 - Также решено все файлы сделать open-source, что бы кто-то поиском, мог найти полезные куски кода для своих задач, или даже продолжить и развить исследование. Поэтому все файлы проекта опубликованы по адресу [https://github.com/arthur-fomin/2023-physics-project](https://github.com/arthur-fomin/2023-physics-project).
 
 
+![](extpdf/plan-release.pdf)
+
 
 
 
