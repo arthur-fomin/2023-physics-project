@@ -26,11 +26,11 @@
 
 #define DEFAULT_SCENE	0		// basic rigidbody
 						 
-void ndBasicAngularMomentum(ndPhysicsViewer* const scene);
+void ndBasicLab(ndPhysicsViewer* const scene);
 
 ndPhysicsViewer::SDKDemos ndPhysicsViewer::m_demosSelection[] = 
 {
-	{ "Rattlebacks", ndBasicAngularMomentum },
+	{ "Rattlebacks", ndBasicLab },
 };
 
 ndPhysicsViewer::ButtonKey::ButtonKey (bool state)
@@ -137,8 +137,8 @@ ndPhysicsViewer::ndPhysicsViewer ()
 	,m_showScene(false)
 	,m_showConcaveEdge(false)
 	,m_hideVisualMeshes(false)
-	,m_showNormalForces(false)
-	,m_showCenterOfMass(false)
+	,m_showNormalForces(true)
+	,m_showCenterOfMass(true)
 	,m_showBodyFrame(false)
 	,m_showMeshSkeleton(false)
 	,m_updateMenuOptions(true)
@@ -193,7 +193,7 @@ ndPhysicsViewer::ndPhysicsViewer ()
 	char version[256];
 	sprintf(version, "Arthur Fomin 3body rattleback demo");
 	//GLFWwindow* window = glfwCreateWindow(1280, 720, version, NULL, NULL);
-	m_mainFrame = glfwCreateWindow(1980, 1080, version, NULL, NULL);
+	m_mainFrame = glfwCreateWindow(1920, 1080, version, NULL, NULL);
 	glfwMakeContextCurrent(m_mainFrame);
 	glfwSwapInterval(0); // Enable vsync
 
