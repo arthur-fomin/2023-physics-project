@@ -24,11 +24,9 @@ monofontoptions: 'Scale=0.6'
 
 Публикаций по теме, начиная с первой работы «G.T. Walker, On a dynamical top, Q. J. pure appl. Math. (1896)» сотни, модель рассматривается в [классических
 англоязычных учебниках](https://books.google.ru/books/about/Dynamics_Theory_and_Applications.html?id=g99oQgAACAAJ), есть масса научно-популярных статей на русском, упомянем самые популярные
-* «[Время собирать кельтские камни](http://www.t-z-n.ru/igryshki/docs/vremya_sobirat.pdf)»
-* «[О динамике катящегося
-тела и некоторых
-курьезных свойствах
-вращающегося волчка](https://www.pereplet.ru/nauka/Soros/pdf/9809_096.pdf)».
+
+- «[Время собирать кельтские камни](http://www.t-z-n.ru/igryshki/docs/vremya_sobirat.pdf)»
+- «[О динамике катящегося тела и некоторых курьезных свойствах вращающегося волчка](https://www.pereplet.ru/nauka/Soros/pdf/9809_096.pdf)».
 
 Но что более удивительно, исследования и свежие научные статьи и исследования продолжаются до сих пор! 
 Как на русском языке — см. например «[Хаотическая динамика и мультистабильность в неголономной модели кельтского камня, 2018](https://www.elibrary.ru/item.asp?id=36933478)» + [«странные аттракторы»](https://www.elibrary.ru/item.asp?id=25442297), не говоря уже о [сотнях англоязычных статей](https://www.researchgate.net/search.Search.html?query=rattleback&type=publication&sortBy=RECENCY):
